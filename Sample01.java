@@ -6,6 +6,7 @@ class Sample01{
         System.out.println("Welcome");
         System.out.println("Welcome");
         System.out.println("Yassine");
+        System.out.println("CHRAÏBI");
 
     }
      public static void main(String[] args) {
